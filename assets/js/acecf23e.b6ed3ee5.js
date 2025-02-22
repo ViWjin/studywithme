@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstudywithme=self.webpackChunkstudywithme||[]).push([[903],{1912:t=>{t.exports=JSON.parse('{"blogBasePath":"/studywithme/blog","blogTitle":"Blog","authorsListPath":"/studywithme/blog/authors"}')}}]);
