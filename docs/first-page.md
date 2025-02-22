@@ -17,7 +17,7 @@ sidebar_position: 1
 
 #### Nhạc 🎵
 
-- **Một số loại âm nhạc tôi thích nghe:** `Nhạc Rap`, `nhạc edm`, `nhạc suy🫣`, ...
+- **Một số loại âm nhạc tôi thích nghe:** `Nhạc chill`, `nhạc edm`, ...
 
 - **Một số tác giả tôi thích nghe:** [Đen Vâu](https://www.youtube.com/@DenVau1305), [Justin Bieber](https://www.youtube.com/@justinbieber)
 
