@@ -1,4 +1,5 @@
 ---
+tittle: Study with me
 sidebar_position: 1
 ---
 
@@ -17,7 +18,7 @@ sidebar_position: 1
 
 #### Nhạc 🎵
 
-- **Một số loại âm nhạc tôi thích nghe:** `Nhạc Rap`, `nhạc edm`, `nhạc suy🫣`, ...
+- **Một số loại âm nhạc tôi thích nghe:** `nhạc chill`, `nhạc edm`, ...
 
 - **Một số tác giả tôi thích nghe:** [Đen Vâu](https://www.youtube.com/@DenVau1305), [Justin Bieber](https://www.youtube.com/@justinbieber)
 
@@ -29,9 +30,15 @@ Tôi chơi khá nhiều nhưng cũng chỉ để giải trí.
 
 Hầu như tôi chỉ chơi `cầu lông`, `bóng đá` với tần số khá ít (cần cải thiện).
 
+#### Viết lách ✒️
+
+Tôi từng thử viết vài cuốt truyện vui nhưng kết quả là không được nhiêu chương và drop :>
+
 #### Đồ uống ưa thích:
 
 🍵 Coffe, 🍵 trà, ...
+
+Và tôi thường uống cafe vài lần trong tuần, nó như một thói quen sống của tôi vậy @@
 
 ### Một số topic mà tôi muốn hướng tới 🧑🏼‍💻
 
