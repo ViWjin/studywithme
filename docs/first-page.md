@@ -29,9 +29,15 @@ Tôi chơi khá nhiều nhưng cũng chỉ để giải trí.
 
 Hầu như tôi chỉ chơi `cầu lông`, `bóng đá` với tần số khá ít (cần cải thiện).
 
+#### Viết lách ✒️
+
+Tôi từng thử viết vài cuốt truyện vui nhưng kết quả là không được nhiêu chương và drop :>
+
 #### Đồ uống ưa thích:
 
 🍵 Coffe, 🍵 trà, ...
+
+Và tôi thường uống cafe vài lần trong tuần, nó như một thói quen sống của tôi vậy @@
 
 ### Một số topic mà tôi muốn hướng tới 🧑🏼‍💻
 
