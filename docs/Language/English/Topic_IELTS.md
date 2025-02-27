@@ -1,7 +1,9 @@
 ---
-tittle: Learning new language
+tittle: Learning English
 sidebar_position: 1
 ---
+
+# Ielts Learning
 
 > _"Nói công tâm thì, tôi là người khá lười học Tiếng Anh, ehe. Nên tôi mới làm cái nội dung này để có thể học tập và chia sẻ (cho đỡ lười)."_
 

@@ -5,9 +5,7 @@ sidebar_position: 1
 
 # Welcome to my note 🐸
 
-`Lời nói đầu tiên, tôi xin cảm ơn các bạn đã dành thời gian ghé thăm trang web của tôi. 🙏🏼`
-
-`P/s: Tôi dùng tiêu đề tiếng anh vì nó ngắn và dễ đưa lên web để không lỗi font. Nên nếu có khó chịu vì tôi dùng nửa anh nửa việt thì mọi người thông cảm.`
+> _"Lời nói đầu tiên, tôi xin cảm ơn các bạn đã dành thời gian ghé thăm trang web của tôi. 🙏🏼"
 
 ## Một chút về tôi 🫣
 
