@@ -15,7 +15,7 @@ sidebar_position: 1
 
 - [3️⃣ Một số thuật ngữ cần biết](#3️⃣-một-số-thuật-ngữ-cần-biết)
 
-- [4️⃣ Cài đặt Git](#4️⃣-cài-đặt-gitt)
+- [4️⃣ Cài đặt Git](#4️⃣-cài-đặt-git)
 
   - [Đối với Windows OS](#đối-với-windows-os)
 
