@@ -138,11 +138,11 @@ Nói đơn giải, **github** có thể xem như là 1 loại mạng xã hội, 
 
 - **Bước 2:** Tạo 1 repository mới khi mới đăng nhập vào.
 
-![ảnh 1](/docs/Tutorial/img/git/1.png)
+![ảnh 1](../Tutorial/img/git/1.png)
 
 - **Bước 3:** Cài đặt thông tin cơ bản cho respository.
 
-![ảnh 2](/docs/Tutorial/img/git/2.png)
+![ảnh 2](../Tutorial/img/git/2.png)
 
 - **Bước 4:** Để push file lên respository mới tạo, tại folder muốn push, mở terminal và sử dụng các lệnh sau.
 
