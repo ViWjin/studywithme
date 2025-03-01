@@ -25,6 +25,12 @@ sidebar_position: 1
 
 - [5️⃣ Github](#5️⃣-github)
 
+  - [Tạo 1 repository căn bản](#tạo-1-repository-căn-bản)
+
+  - [Tạo branch mới trên github](#tạo-branch-mới-trên-github)
+
+  - [Tải nội dung trên github về thiết bị](#tải-nội-dung-trên-github-về-thiết-bị)
+
 ### 1️⃣ Git là gì?
 
 **Git** là một hệ thống kiểm soát phiên bản (version control system - VCS) dùng để theo dõi các thay đổi trong các tập tin và cách phối hợp sao cho nhiều người có thể cùng làm việc trên những tập tin đó.
@@ -128,3 +134,77 @@ Nói đơn giải, **github** có thể xem như là 1 loại mạng xã hội, 
 
 #### Tạo 1 repository căn bản
 
+- **Bước 1:** Truy cập vào trang chủ *github* và tiến hành đăng nhập/đăng ký.
+
+- **Bước 2:** Tạo 1 repository mới khi mới đăng nhập vào.
+
+![ảnh 1](/docs/Tutorial/img/git/1.png)
+
+- **Bước 3:** Cài đặt thông tin cơ bản cho respository.
+
+![ảnh 2](/docs/Tutorial/img/git/2.png)
+
+- **Bước 4:** Để push file lên respository mới tạo, tại folder muốn push, mở terminal và sử dụng các lệnh sau.
+
+*1. Lệnh khởi tạo git*
+```
+git init
+```
+
+*2. Thêm remote các file*
+```
+git add .
+```
+
+*3. Tiến hành commit file*
+```
+git commit -m "message"
+```
+
+*4. Thêm remote respository*
+```
+git remote add origin https://github.com/username/tên-repository.git
+```
+
+*5. Tiến hành push nội dung lên branch*
+```
+git push -u origin new-branch
+```
+
+#### Tạo branch mới trên github
+
+*Hàm kiểm tra các branch hiện có*
+```
+git branch
+```
+
+*Tạo branch mới*
+```
+git branch new-branch
+```
+
+*Chuyển qua branch mới*
+```
+git checkout new-branch
+```
+
+*Vừa tạo vừa chuyển qua branch mới*
+```
+git checkout -b new-branch
+```
+
+#### Tải nội dung trên github về thiết bị
+
+- **Dùng lệnh clone**
+```
+git clone https://github.com/username/respository_name.git
+```
+
+- **Dùng Github desktop**
+
+Tải github desktop: [tại đây](https://github.com/apps/desktop)
+
+- **Dùng git pull**
+```
+git pull origin branch_name
+```
