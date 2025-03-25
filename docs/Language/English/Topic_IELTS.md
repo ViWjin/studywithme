@@ -17,6 +17,8 @@ sidebar_position: 1
 
     - [Task 2](#task-2)
 
+
+
 ## 📌 Các chủ đề về Ielts mà tôi nghe + đọc
 
 ### Đề tài: Listening Ielts 2 từ Studio4
@@ -82,3 +84,6 @@ Nội dung được chia theo các task nhỏ:
 | self-assured               | adjective | tự tin                           | confident                 | The interview showed her as a self-assured and mature student                                  |
 | muscle                     | noun      | cơ bắp                           | --                        | He looks like a boxer, with thick arms and bulging/rippling muscles                            |
 | tension                    | noun      | căng thẳng                       | --                        | You could feel the tension in the room as we waited for our exam results                       |
+
+#### Task 3:
+
