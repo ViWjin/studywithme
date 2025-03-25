@@ -20,6 +20,30 @@ sidebar_position: 1
 
 ## 1️⃣ Các bài mức dễ 
 
+### Inspect HTML
+
+Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/275?page=4)
+
+*Note: Bài này tôi làm sau mà nó đơn giản quá nên để lên đầu🐧. Bài này chỉ full cách tra source luôn (để tôi nhớ)*
+
+**Bước 1:** Nhìn vào trang nội dung, ta thấy không có bất kỳ thông tin nào cần để giải bài này.
+
+![Pic1](../CTF/img/web/Inspect_HTML/1.png)
+
+**Bước 2:** Ấn chuột phải, chọn "Kiểm tra phần tử" hoặc "Inspect" (như trong hình).
+
+![Pic2](../CTF/img/web/Inspect_HTML/2.png)
+
+**Bước 3:** Lúc này, đã thấy mã cần tìm, nhưng vì lỡ chỉ rồi nên tôi chỉ cho trót các xem source 🐧. Thì bạn thấy ảnh con bọ không. Đúng rồi, ở cái ô màu đỏ đấy, ấn vào đi.
+
+![Pic3](../CTF/img/web/Inspect_HTML/3.png)
+
+**Bước 4:** Cái nội dung lúc này là file html mà bạn thấy lúc mới vào. Và bài này khá đơn giản nên mã flag cần tìm cũng đã nằm ở phần comment
+
+![Pic4](../CTF/img/web/Inspect_HTML/4.png)
+
+***Kết thúc!***
+
 ### Local Authority
 
 Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/278?page=4)
