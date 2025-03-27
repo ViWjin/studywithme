@@ -11,8 +11,9 @@ sidebar_position: 2
 - [⚙️ Các công cụ được sử dụng để làm bài](#️-các-công-cụ-được-sử-dụng-để-làm-bài)
 - [1️⃣ Các bài mức dễ](#1️⃣-các-bài-mức-dễ)
     - [Commitment Issues](#commitment-issues)
-
-
+    - [Collaborative Development](#collaborative-development)
+    - [Blame Game](#blame-game)
+    - [Big Zip](#big-zip)
 - [2️⃣ Các bài mức trung bình](#2️⃣-các-bài-mức-trung-bình)
 
 - [3️⃣ Các bài mức khó](#3️⃣-các-bài-mức-khó)
@@ -151,7 +152,71 @@ git log message.py
 
 ***Kết thúc!***
 
+### Big Zip
 
+Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/322?page=3)
+
+**Bước 1:** Đây là 1 file zip khá lớn, khi tải về và giải nén, ta sẽ thấy có rất nhiều file trong đây.
+
+![Pic1](./img/general_skill/Big_zip/2.png)
+
+**Bước 2:** Kiểm tra vài định dạng file, ta thấy các file là *file .txt* và các *folder chứa file .txt*
+
+![Pic2](./img/general_skill/Big_zip/1.png)
+
+**Bước 3:** Lúc này, kiểm tra thủ công là 1 quyết định không hay! Vì vậy, ta sẽ sử dụng 1 lệnh có sẵn của Terminal (có sẵn trong Windows và cả Linux).
+
+```
+findstr /s /i "CTF" *.txt
+```
+
+**Trong đó:**
+
+- Lệnh findstr: là lệnh dùng để tìm ký tự.
+
+- /s: tìm trong tất cả folder.
+
+- /i: không phân biệt hoa thường.
+
+![Pic3](./img/general_skill/Big_zip/3.png)
+
+***Kết thúc!***
+
+### First Find
+
+Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/320?page=3)
+
+**Bước 1:** Đây là 1 file zip khá lớn, khi tải về và giải nén, ta sẽ thấy có rất nhiều file trong đây.
+
+![Pic1](./img/general_skill/First_Find/1.png)
+
+**Bước 2:** Kiểm tra vài định dạng file, ta thấy các file là *file .txt* và các *folder chứa file .txt*
+
+![Pic2](./img/general_skill/First_Find/2.png)
+
+**Bước 3:** Lúc này, đề yêu cầu ta phải tìm được file *uber-secret.txt*. Tất nhiên với bài này, việc tìm kiếm không hề khó. Nhưng nếu lượng file và folder nhiều hơn, ta phải làm sao? 
+
+Lúc này đã có 1 lệnh có sẵn trong terminal, đó là:
+
+```
+dir /s /b "uber-secret.txt"
+```
+
+**Trong đó:**
+
+- Lệnh dir: Hiển thị danh sách file và thư mục.
+
+- /s: Tìm trong tất cả folder.
+
+- /b:  Chế độ "bare" (không hiển thị thông tin bổ sung, chỉ in ra đường dẫn file).
+
+![Pic3](./img/general_skill/First_Find/3.png)
+
+**Bước 4:** Dù sao đề vẫn yêu cầu là mã CTF, nên ta chỉ cần copy đường dẫn và dán lại vào terminal là được.
+
+![Pic4](./img/general_skill/First_Find/4.png)
+
+***Kết thúc!***
 
 ## 2️⃣ Các bài mức trung bình
 
