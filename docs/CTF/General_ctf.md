@@ -103,12 +103,7 @@ python flag.py
 Hoặc nhanh hơn:
 
 ```
-git checkout feature/part-1
-python flag.py
-git checkout feature/part-2
-python flag.py
-git checkout feature/part-3
-python flag.py
+git checkout feature/part-1 && python flag.py && git checkout feature/part-2 && python flag.py && git checkout feature/part-3 && python flag.py
 ```
 
 ![Pic5](./img/general_skill/Collaborative-Development/5.png)
