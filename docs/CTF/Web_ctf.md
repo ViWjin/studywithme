@@ -4,10 +4,11 @@ sidebar_position: 1
 
 # CTF - WEB EXPLOTATION
 
-> _"Trang này chủ yếu lấy những chủ đề CTF về Web Explotation. Từ ease -> medium -> hard. Và tôi làm bài khá loạn xạ nên nếu mọi người muốn tìm bài gì thì cứ xem mục lục cho dễ nhé."_
+> _"Trang này chủ yếu lấy những chủ đề CTF về Web Explotation. Từ easy -> medium -> hard. Và tôi làm bài khá loạn xạ nên nếu mọi người muốn tìm bài gì thì cứ xem mục lục cho dễ nhé."_
 
 ## 📌 Mục lục
 
+- [## ⚙️ Các công cụ được sử dụng để làm bài](#️-các-công-cụ-được-sử-dụng-để-làm-bài)
 - [1️⃣ Các bài mức dễ](#1️⃣-các-bài-mức-dễ)
     - [Inspect HTML](#inspect-html)
     - [Local Authority](#local-authority)
@@ -20,6 +21,8 @@ sidebar_position: 1
 
 
 [CTF from picoCTF](https://play.picoctf.org/)
+
+## ⚙️ Các công cụ được sử dụng để làm bài
 
 ## 1️⃣ Các bài mức dễ 
 
