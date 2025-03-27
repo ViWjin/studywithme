@@ -14,6 +14,7 @@ sidebar_position: 2
     - [Collaborative Development](#collaborative-development)
     - [Blame Game](#blame-game)
     - [Big Zip](#big-zip)
+    - [First Find](#first-find)
 - [2️⃣ Các bài mức trung bình](#2️⃣-các-bài-mức-trung-bình)
 
 - [3️⃣ Các bài mức khó](#3️⃣-các-bài-mức-khó)
