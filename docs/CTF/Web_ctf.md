@@ -8,7 +8,7 @@ sidebar_position: 1
 
 ## 📌 Mục lục
 
-- [## ⚙️ Các công cụ được sử dụng để làm bài](#️-các-công-cụ-được-sử-dụng-để-làm-bài)
+- [⚙️ Các công cụ được sử dụng để làm bài](#️-các-công-cụ-được-sử-dụng-để-làm-bài)
 - [1️⃣ Các bài mức dễ](#1️⃣-các-bài-mức-dễ)
     - [Inspect HTML](#inspect-html)
     - [Local Authority](#local-authority)
