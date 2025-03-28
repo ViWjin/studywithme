@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstudywithme=self.webpackChunkstudywithme||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome to my note \ud83d\udc38","permalink":"/studywithme/blog/first-page","unlisted":false,"date":"2025-03-28T11:22:29.000Z"}]}')}}]);
