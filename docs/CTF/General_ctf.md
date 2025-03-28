@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# CTF - General Skills
+# CTF - GENERAL SKILLS  
 
 > _"Trang này chủ yếu lấy những chủ đề CTF về General Skill đến từ Pico CTF. Từ easy -> medium -> hard."_
 
@@ -10,11 +10,15 @@ sidebar_position: 2
 
 - [⚙️ Các công cụ được sử dụng để làm bài](#️-các-công-cụ-được-sử-dụng-để-làm-bài)
 - [1️⃣ Các bài mức dễ](#1️⃣-các-bài-mức-dễ)
+    - [Time Machine](#time-machine)
     - [Commitment Issues](#commitment-issues)
     - [Collaborative Development](#collaborative-development)
     - [Blame Game](#blame-game)
     - [Big Zip](#big-zip)
     - [First Find](#first-find)
+    - [Codebook](#codebook)
+    - [PW Crack 1](#pw-crack-1)
+    - [PW Crack 2](#pw-crack-2)
 - [2️⃣ Các bài mức trung bình](#2️⃣-các-bài-mức-trung-bình)
 
 - [3️⃣ Các bài mức khó](#3️⃣-các-bài-mức-khó)
@@ -29,11 +33,29 @@ sidebar_position: 2
 
 ## 1️⃣ Các bài mức dễ 
 
+### Time Machine
+
+Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/425?page=2)
+
+**Bước 1:** Sau khi tải và giải nén file, ta thấy folder chỉ có *1 file .txt* và *1 folder .git*.
+
+![Pic1](./img/general_skill/Time_machine/0.png)
+
+**Bước 2:** Kiểm tra thì ta thấy được *file message.txt* chỉ có nội dung sau
+
+![Pic2](./img/general_skill/Time_machine/1.png)
+
+**Bước 3:** Theo nội dung trong *file message.txt* thì chúng ta có thể thấy được nội dung gì đã khi kiểm tra lịch sử commit. Trong bài này, ta sẽ sử dụng lệnh sau:
+
+![Pic3](./img/general_skill/Time_machine/2.png)
+
+***Kết thúc!***
+
 ### Commitment Issues
 
 Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/411?page=3)
 
-**Bước 1:** Tất nhiên là tải file tài nguyên và giải nén trước. Sau đó ta sẽ thấy file nén chỉ có *1 file .txt* và *folder .git*
+**Bước 1:** Tất nhiên là tải file tài nguyên và giải nén trước. Sau đó ta thấy file sau khi nén chỉ có *1 file .txt* và *folder .git*
 
 ![Pic1](./img/general_skill/Commitment_Issue/1.png)
 
@@ -211,6 +233,58 @@ dir /s /b "uber-secret.txt"
 **Bước 4:** Dù sao đề vẫn yêu cầu là mã CTF, nên ta chỉ cần copy đường dẫn và dán lại vào terminal là được.
 
 ![Pic4](./img/general_skill/First_Find/4.png)
+
+***Kết thúc!***
+
+### Codebook
+
+Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/238?page=4)
+
+**Bước 1:** Tải về và kiểm tra file *code.py* và file *code.txt*.
+
+![Pic1](./img/general_skill/Codebook/1.png)
+
+![Pic2](./img/general_skill/Codebook/2.png)
+
+**Bước 2:** Việc đoạn mã trong *code.txt* giống 1 chuỗi ngẫu nhiên, nhưng thực ra là 1 chuỗi sau khi bị encrypt, vì vậy lần này ta chỉ việc chạy file *code.py* để decrypt ra.
+
+![Pic3](./img/general_skill/Codebook/3.png)
+
+***Kết thúc!***
+
+### PW Crack 1
+
+Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/245?page=4)
+
+**Bước 1:** Sau khi tải file tài nguyên và file checker thì ta sẽ có 2 file sau:
+
+![Pic1](./img/general_skill/PW_Crack1/1.png)
+
+**Bước 2:** Thử kiểm tra file *level1.py*, sẽ thấy file này mục đích tìm Flag, và việc của ta là gõ đúng mật khẩu để chạy.
+
+![Pic2](./img/general_skill/PW_Crack1/2.png)
+
+**Bước 3:** Và mật khẩu đã có sẵn, nên khi chạy file *level1.py*, ta chỉ cần ghi đúng mật khẩu và chờ kết quả.
+
+![Pic3](./img/general_skill/PW_Crack1/3.png)
+
+***Kết thúc!***
+
+### PW Crack 2
+
+Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/246?page=4)
+
+**Bước 1:** Bài này cũng khá tương tự bài [PW Crack 1](#pw-crack-1), có điều mật khẩu không có lộ ra rõ như trước nữa.
+
+![Pic1](./img/general_skill/PW_Crack2/1.png)
+
+**Bước 2:** Vì các lệnh trong mật khẩu là *chr(0xXX)* nên ta sẽ hiểu là việc của ta chỉ là tra bảng mã ASCII sao cho số hexa (0xXX) tương ứng với ký tự nào trong bảng mã. (Hoặc đơn giản hơn là dùng công cụ hoặc chatGPT).
+
+![Pic2](./img/general_skill/PW_Crack2/2.png)
+
+**Bước 3:** Tìm thấy mật khẩu nên chỉ việc chạy file và nhận kết quả.
+
+![Pic3](./img/general_skill/PW_Crack2/3.png)
 
 ***Kết thúc!***
 

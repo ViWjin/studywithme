@@ -15,6 +15,7 @@ sidebar_position: 1
     - [Includes](#includes)
     - [Bookmarklet](#bookmarklet)
     - [WebDecode](#webdecode)
+    - [Unminify](#unminify)
 - [2️⃣ Các bài mức trung bình](#2️⃣-các-bài-mức-trung-bình)
 
 - [3️⃣ Các bài mức khó](#3️⃣-các-bài-mức-khó)
@@ -135,6 +136,20 @@ Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/427?page=2)
 ![Pic5](../CTF/img/web/WebDecode/5.png)
 
 **Yeah, và thực sự đó là đáp án mà ta cần tìm!**
+
+***Kết thúc!***
+
+### Unminify
+
+Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/426?page=2)
+
+**Bước 1:** Khi vào trang web, ta thấy trang web thông báo ta đã nhận được đoạn Flag nhưng ta lại không thể thấy đoạn Flag đó.
+
+![Pic1](./img/web/Unminify/1.png)
+
+**Bước 2:** Thử kiểm tra code, đến lúc kiểm tra thẻ *div* chứ các nội dung trong thẻ *p* thì ta thấy đoạn Flag được giấu trong *class* của 1 thẻ *p*.
+
+![Pic2](./img/web/Unminify/2.png)
 
 ***Kết thúc!***
 
