@@ -288,6 +288,30 @@ Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/246?page=4)
 
 ***Kết thúc!***
 
+### converme.py
+
+Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/239?page=4)
+
+***Kết thúc!***
+
+### fixme1.py
+
+Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/240?page=4)
+
+***Kết thúc!***
+
+### fixme2.py
+
+Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/241?page=4)
+
+***Kết thúc!***
+
+### Python Wrangling
+
+Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/166?page=5)
+
+***Kết thúc!***
+
 ## 2️⃣ Các bài mức trung bình
 
 ## 3️⃣ Các bài mức khó
