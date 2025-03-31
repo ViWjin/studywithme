@@ -54,7 +54,7 @@ Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/475?page=1)
 
 ![Pic5](../CTF/img/Cryptography/hashcrack/5.png)
 
-Đoạn Flag: **picoCTF{UseStr0nG_h@shEs_&PaSswDs!_ce730f64}**
+Đoạn Flag: **picoCTF\{UseStr0nG_h@shEs_&PaSswDs!_ce730f64\}**
 
 ***Kết thúc!***
 
