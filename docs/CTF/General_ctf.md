@@ -377,6 +377,44 @@ Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/404?page=3)
 
 ***Kết thúc!***
 
+### HashingJobApp
+
+Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/243?page=4)
+
+Bài này ngoài WSL, tôi sẽ dùng thêm MD5 HASH, [links tại đây nha](https://www.md5hashgenerator.com/)
+
+**Bước 1:** Tôi chạy lệnh *"nc saturn.picoctf.net 53294"* và yêu cầu.
+
+![Pic1](../CTF/img/general_skill/HashingJobApp/1.png)
+
+Do tôi bị time's up nên tôi sẽ làm lại.
+
+**Bước 2:** Chương trình sẽ liên tục cấp tên, và chỉ cần Hash nhanh và trả lời đủ 3 câu sẽ nhận kết quả.
+
+![Pic2](../CTF/img/general_skill/HashingJobApp/2.png)
+
+Đoạn mã: **picoCTF\{4ppl1c4710n_r3c31v3d_3eb82b73\}**
+
+***Kết thúc!***
+
+### Glitch Cat
+
+Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/242?page=4)
+
+Vẫn là dùng WSL, và lần này có tool giải mã từ HEX sang TEXT, [links tại đây](https://www.rapidtables.com/convert/number/hex-to-ascii.html)
+
+**Bước 1:** Chương trình cho lệnh *"nc saturn.picoctf.net 61988"*, tôi cho vào WSL để chạy và nhận yêu cầu sau:
+
+![Pic1](../CTF/img/general_skill/glict_cat/1.png)
+
+**Bước 2:** Tôi lấy các lệnh **chr(0xXX)** và chỉ lấy nội dung **XX**, thực ra đây là mã HEX và lệnh *chr* là lệnh này dịch mã HEX sang Text. Tôi liền đưa các mã HEX này vào công cụ để giải mã.
+
+![Pic2](../CTF/img/general_skill/glict_cat/2.png)
+
+Đoạn mã: **picoCTF\{gl17ch_m3_n07_a4392d2e\}**
+
+***Kết thúc!***
+
 ## 2️⃣ Các bài mức trung bình
 
 ## 3️⃣ Các bài mức khó
