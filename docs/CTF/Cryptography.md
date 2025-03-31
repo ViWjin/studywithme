@@ -20,7 +20,7 @@ Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/144?page=5)
 
 Tool bài này là ROT13 Decoder, [links tại đây](https://cryptii.com/pipes/rot13-decoder)
 
-**Bước 1:** Đề cho tôi đoạn code sau *"cvpbPGS{arkg_gvzr_V'yy_gel_2_ebhaqf_bs_ebg13_jdJBFOXJ}"* và yêu cầu tôi giải ra.
+**Bước 1:** Đề cho tôi đoạn code sau *"cvpbPGS\{arkg_gvzr_V'yy_gel_2_ebhaqf_bs_ebg13_jdJBFOXJ\}"* và yêu cầu tôi giải ra.
 
 ![Pic1](../CTF/img/Cryptography/Mod26/1.png)
 
@@ -54,7 +54,7 @@ Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/62?page=6)
 
 Tool bài này là ROT13 Decoder, [links tại đây](https://cryptii.com/pipes/rot13-decoder)
 
-**Bước 1:** Đề cho tôi đoạn code sau *"cvpbPGS{abg_gbb_onq_bs_n_ceboyrz}"* và yêu cầu tôi giải ra.
+**Bước 1:** Đề cho tôi đoạn code sau *"cvpbPGS\{abg_gbb_onq_bs_n_ceboyrz\}"* và yêu cầu tôi giải ra.
 
 ![Pic1](../CTF/img/Cryptography/13/1.png)
 
