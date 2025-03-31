@@ -18,17 +18,51 @@ sidebar_position: 3
 
 Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/144?page=5)
 
+Tool bài này là ROT13 Decoder, [links tại đây](https://cryptii.com/pipes/rot13-decoder)
+
+**Bước 1:** Đề cho tôi đoạn code sau *"cvpbPGS{arkg_gvzr_V'yy_gel_2_ebhaqf_bs_ebg13_jdJBFOXJ}"* và yêu cầu tôi giải ra.
+
+![Pic1](../CTF/img/Cryptography/Mod26/1.png)
+
+**Bước 2:** Với việc đoạn đầu luôn là picoCTF, ta có thể biết được đoạn chương trình bị mã hóa theo kiểu mod26, mà nó lại trùng với ROT13 nên dùng ROT13 decoder cho dễ.
+
+![Pic2](../CTF/img/Cryptography/Mod26/2.png)
+
+Đoạn mã: **picoCTF\{next_time_I'll_try_2_rounds_of_rot13_wqWOSBKW\}**
+
 ***Kết thúc!***
 
 ### The Numbers
 
 Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/68?page=6)
 
+**Bước 1:** Xem đoạn mã sau, ta thấy nội dung là một dãy số.
+
+![Pic1](../CTF/img/Cryptography/Numbers/1.png)
+
+**Bước 2:** Cứ tưởng là đoạn số vô nghĩa, nhưng xét theo nội dung **picoCTF** ở đầu, tôi nghĩ dãy số này tượng trưng cho vị trí của từng ký tự, vì vậy tôi thử thay thế và tìm được đoạn mã như này.
+
+![Pic2](../CTF/img/Cryptography/Numbers/2.png)
+
+Đoạn mã: **picoCTF{THE_NUMBERS_MASON}**
+
 ***Kết thúc!***
 
 ### 13
 
 Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/62?page=6)
+
+Tool bài này là ROT13 Decoder, [links tại đây](https://cryptii.com/pipes/rot13-decoder)
+
+**Bước 1:** Đề cho tôi đoạn code sau *"cvpbPGS{abg_gbb_onq_bs_n_ceboyrz}"* và yêu cầu tôi giải ra.
+
+![Pic1](../CTF/img/Cryptography/13/1.png)
+
+**Bước 2:** Với việc đoạn đầu luôn là picoCTF, ta có thể biết được đoạn chương trình bị mã hóa theo ROT13.
+
+![Pic2](../CTF/img/Cryptography/13/2.png)
+
+Đoạn mã: **picoCTF\{not_too_bad_of_a_problem\}**
 
 ***Kết thúc!***
 
