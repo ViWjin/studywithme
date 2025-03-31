@@ -6,6 +6,8 @@ sidebar_position: 3
 
 > _"Trang này chủ yếu lấy những chủ đề CTF về Cryptography đến từ Pico CTF. Từ easy -> medium -> hard."_
 
+[CTF from picoCTF](https://play.picoctf.org/)
+
 ## ⚙️ Các công cụ được sử dụng để làm bài
 
 - WSL
