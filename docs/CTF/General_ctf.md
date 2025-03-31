@@ -49,6 +49,8 @@ Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/425?page=2)
 
 ![Pic3](./img/general_skill/Time_machine/2.png)
 
+
+
 ***Kết thúc!***
 
 ### Commitment Issues
@@ -292,6 +294,8 @@ Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/246?page=4)
 
 Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/239?page=4)
 
+
+
 ***Kết thúc!***
 
 ### fixme1.py
@@ -309,6 +313,30 @@ Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/241?page=4)
 ### Python Wrangling
 
 Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/166?page=5)
+
+***Kết thúc!***
+
+### 2Warm
+
+Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/86?page=6)
+
+***Kết thúc!***
+
+### Bases
+
+Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/67?page=6)
+
+***Kết thúc!***
+
+### Warmed up
+
+Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/58?page=6)
+
+***Kết thúc!***
+
+### Lets Warm Up
+
+Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/22?page=7)
 
 ***Kết thúc!***
 

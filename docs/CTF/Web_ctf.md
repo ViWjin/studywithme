@@ -153,6 +153,12 @@ Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/426?page=2)
 
 ***Kết thúc!***
 
+### dont-use-client-side
+
+Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/66?page=6)
+
+***Kết thúc!***
+
 ## 2️⃣ Các bài mức trung bình
 
 ## 3️⃣ Các bài mức khó

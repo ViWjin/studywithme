@@ -16,6 +16,18 @@ Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/144?page=5)
 
 ***Kết thúc!***
 
+### The Numbers
+
+Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/68?page=6)
+
+***Kết thúc!***
+
+### 13
+
+Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/62?page=6)
+
+***Kết thúc!***
+
 ## 2️⃣ Các bài mức trung bình
 
 ## 3️⃣ Các bài mức khó
