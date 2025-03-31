@@ -6,8 +6,6 @@ sidebar_position: 2
 
 > _"Trang này chủ yếu lấy những chủ đề CTF về General Skill đến từ Pico CTF. Từ easy -> medium -> hard."_
 
-## 📌 Mục lục
-
 [CTF from picoCTF](https://play.picoctf.org/)
 
 ## ⚙️ Các công cụ được sử dụng để làm bài
@@ -325,7 +323,7 @@ Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/22?page=7)
 
 ***Kết thúc!***
 
-### FANtôiSY CTF
+### FANTASY CTF
 
 Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/471?page=1)
 
@@ -354,6 +352,28 @@ Bài sẽ có thông tin cảnh cáo, thử chạy lại lần nữa.
 Lần này kết quả hoàn toàn chính xác.
 
 Đoạn mã: **picoCTF\{m1113n1um_3d1710n_5e40d7b5\}**
+
+***Kết thúc!***
+
+### binhexa
+
+Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/404?page=3)
+
+**Bước 1:** Theo đề bài yêu cầu, chạy lệnh *"nc titan.picoctf.net 54508"*, tiếp tục xài WSL.
+
+![Pic1](../CTF/img/general_skill/binhexa/1.png)
+
+**Bước 2:** Bài làm sẽ cho 5 câu hỏi, chỉ việc trả lời hết 5 câu hỏi thì sẽ có mã.
+
+![Pic2](../CTF/img/general_skill/binhexa/2.png)
+
+**Lưu ý:**
+
+- Các dấu lần lượt là ```|: là OR```, ```&: là AND```, ```>>: dịch phải```, ```<<: dịch trái```, ```*: Phép nhân (chuyển qua DECIMAL, nhân xong rồi chuyển lại BINARY)```
+
+- Nếu gõ 8 bits (8 số gồm 0 và 1) mà sai, hãy thử gõ lên 16 số.
+
+Đoạn mã: **picoCTF\{b1tw^3se_0p3eR@tI0n_su33essFuL_1367e2c6\}**
 
 ***Kết thúc!***
 
