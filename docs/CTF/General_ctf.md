@@ -333,19 +333,19 @@ Bài này khá hay, giống 1 trò chơi và có phần lừa.
 
 **Bước 1:** Theo yêu cầu đề bài cần chạy lệnh *"nc verbal-sleep.picoctf.net 57327"*, mà lệnh này thì chạy bằng *Ubuntu* nên tôi sẽ dùng *WSL* để chạy.
 
-![Pic1](../CTF/img/general_skill/Fantôisy_CTF/1.png)
+![Pic1](../CTF/img/general_skill/Fantasy_CTF/1.png)
 
 **Bước 2:** Sau khi kết nối thành công, tôi nhận được khá nhiều nội dung và yêu cầu tôi lựa chọn. Dựa theo nội dung sẵn bài này, tôi sẽ chọn đáp án **C**.
 
-![Pic2](../CTF/img/general_skill/Fantôisy_CTF/2.png)
+![Pic2](../CTF/img/general_skill/Fantasy_CTF/2.png)
 
 **Bước 3:** Sau khi đọc xong nội dung, căn bản không có nói lựa chọn nào tốt. Tôi sẽ thử chọn tìm Flag.
 
-![Pic3](../CTF/img/general_skill/Fantôisy_CTF/3.png)
+![Pic3](../CTF/img/general_skill/Fantasy_CTF/3.png)
 
 Bài sẽ có thông tin cảnh cáo, thử chạy lại lần nữa.
 
-![Pic4](../CTF/img/general_skill/Fantôisy_CTF/4.png)
+![Pic4](../CTF/img/general_skill/Fantasy_CTF/4.png)
 
 **Bước 4:** Dù đã có đoạn mã, nhưng dựa theo cảnh cáo là dịch theo leet-speak, cái đoạn mã này sẽ có nghĩa là **picoCTF\{this_is_not_the_flag\}**. Lúc này, tôi sẽ thử chơi trò chơi.
 
