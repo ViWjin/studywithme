@@ -44,7 +44,7 @@ Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/68?page=6)
 
 ![Pic2](../CTF/img/Cryptography/Numbers/2.png)
 
-Đoạn mã: **picoCTF{THE_NUMBERS_MASON}**
+Đoạn mã: **picoCTF\{THE_NUMBERS_MASON\}**
 
 ***Kết thúc!***
 
