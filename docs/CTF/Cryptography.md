@@ -94,6 +94,12 @@ Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/475?page=1)
 
 ***Kết thúc!***
 
+### interencdec
+
+Bài làm: [tại đây](https://play.picoctf.org/practice/challenge/418?page=3)
+
+***Kết thúc!***
+
 ## 2️⃣ Các bài mức trung bình
 
 ## 3️⃣ Các bài mức khó

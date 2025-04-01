@@ -277,8 +277,6 @@ Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/246?page=4)
 
 Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/239?page=4)
 
-
-
 ***Kết thúc!***
 
 ### fixme1.py
@@ -412,6 +410,54 @@ Vẫn là dùng WSL, và lần này có tool giải mã từ HEX sang TEXT, [lin
 ![Pic2](../CTF/img/general_skill/glict_cat/2.png)
 
 Đoạn mã: **picoCTF\{gl17ch_m3_n07_a4392d2e\}**
+
+***Kết thúc!***
+
+### strings it
+
+Bài làm: [tại đây](https://play.picoctf.org/practice/challenge/37?page=6)
+
+***Kết thúc!***
+
+### what's a net cat?
+
+Bài làm: [tại đây](https://play.picoctf.org/practice/challenge/34?page=6)
+
+***Kết thúc!***
+
+### First Grep
+
+Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/85?page=6)
+
+***Kết thúc!***
+
+### Magikarp Ground Mission
+
+Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/189?page=5)
+
+***Kết thúc!***
+
+### Wave a flag
+
+Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/170?page=5)
+
+***Kết thúc!***
+
+### Static ain't always noise
+
+Bài làm: [tại đây](https://play.picoctf.org/practice/challenge/163?page=5)
+
+***Kết thúc!***
+
+### Nice netcat...
+
+Bài làm: [tại đây](https://play.picoctf.org/practice/challenge/156?page=5)
+
+***Kết thúc!*** 
+
+### Obedient Cat
+
+Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/147?page=5)
 
 ***Kết thúc!***
 
