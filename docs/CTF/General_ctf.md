@@ -461,6 +461,46 @@ Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/147?page=5)
 
 ***Kết thúc!***
 
+### endianness
+
+Bài làm: [tại đây](https://play.picoctf.org/practice/challenge/414?page=3)
+
+***Kết thúc!***
+
+### Super SSH
+
+Bài làm: [tại đây](https://play.picoctf.org/practice/challenge/424?page=2)
+
+***Kết thúc!***
+
+### Binary Search
+
+Bài làm: [tại đây](https://play.picoctf.org/practice/challenge/442?page=2)
+
+***Kết thúc!***
+
+### runme.py
+
+Bài làm: [tại đây](https://play.picoctf.org/practice/challenge/250?page=4)
+
+***Kết thúc!***
+
+### Rust fixme 1
+
+Bài làm: [tại đây](https://play.picoctf.org/practice/challenge/461?page=1)
+
+***Kết thúc!***
+
+### Rust fixme 2
+
+Bài làm: [tại đây](https://play.picoctf.org/practice/challenge/462?page=1)
+
+***Kết thúc!***
+
+### Rust fixme 3
+
+Bài làm: [tại đây](https://play.picoctf.org/practice/challenge/463?page=1)
+
 ## 2️⃣ Các bài mức trung bình
 
 ## 3️⃣ Các bài mức khó

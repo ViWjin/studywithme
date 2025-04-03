@@ -98,6 +98,34 @@ Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/475?page=1)
 
 Bài làm: [tại đây](https://play.picoctf.org/practice/challenge/418?page=3)
 
+Bài này sẽ sử dụng *WSL*, ngoài ra còn sử dụng *Base64 Decoder* và *Tool Decoder* khác.
+
+**Bước 1:** Bài làm này cho file **enc_flag** và việc của tôi là tìm được nội dung ẩn giấu ở trong.
+
+![Pic1](../CTF/img/Cryptography/interencdec/1.png)
+
+**Bước 2:** Tôi sử dụng WSL và sử dụng lệnh sau:
+
+```
+strings enc_flag
+```
+
+![Pic2](../CTF/img/Cryptography/interencdec/2.png)
+
+**Bước 3:** Đoạn mã *YidkM0JxZGtwQlRYdHFhR3g2YUhsZmF6TnFlVGwzWVROclh6ZzJhMnd6TW1zeWZRPT0nCg==* được mã hóa theo định dạng *Base64*. Vì vậy tôi sẽ dùng *Base64 Decoder* để dịch mã này ra.
+
+![Pic3](../CTF/img/Cryptography/interencdec/3.png)
+
+**Bước 4:** Sau khi giải mã, tôi thấy *d3BqdkpBTXtqaGx6aHlfazNqeTl3YTNrXzg2a2wzMmsyfQ==* cũng là một đoạn *Base64*. Tiếp tục giải mã.
+
+![Pic4](../CTF/img/Cryptography/interencdec/4.png)
+
+**Bước 5:** Đoạn mã mới *wpjvJAM\{jhlzhy_k3jy9wa3k_86kl32k2\}* được mã hóa theo *Cipher*, cụ thể hơn là các ký tự đã dịch 7 vị trí so với ban đầu. 
+
+![Pic5](../CTF/img/Cryptography/interencdec/5.png)
+
+Đoạn mã: **picoCTF\{caesar_d3cr9pt3d_86de32d2\}**
+
 ***Kết thúc!***
 
 ## 2️⃣ Các bài mức trung bình

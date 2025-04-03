@@ -20,6 +20,12 @@ Bài làm: [Tại đây](https://play.picoctf.org/practice/challenge/44?page=6)
 
 ***Kết thúc!***
 
+### Scan Surprise
+
+Bài làm: [tại đây](https://play.picoctf.org/practice/challenge/444?page=2)
+
+***Kết thúc!***
+
 ## 2️⃣ Các bài mức trung bình
 
 ## 3️⃣ Các bài mức khó
